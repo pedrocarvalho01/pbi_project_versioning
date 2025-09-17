@@ -1,3 +1,0 @@
-function SumTwoNumbers = (a,b) => a + b
-	lineageTag: 11a394a7-d9b5-4bb9-b4eb-beb2383a6eb4
-
