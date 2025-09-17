@@ -1,0 +1,4 @@
+DEFINE
+    FUNCTION SumTwoNumbers = (a,b) => a + b
+EVALUATE
+   { SumTwoNumbers( 10, 20 ) }
